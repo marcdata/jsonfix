@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "ea24e464b06000131a4d489a441ca9bd931d2b83"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "SimpleAcceptor3/1.0.0": {
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1"
+        },
+        "runtime": {
+          "SimpleAcceptor3.dll": {}
+        }
+      },
+      "QuickFix.Net.NETCore/1.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleAcceptor3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickFix.Net.NETCore/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-olBopIjF7fhurORB+ZDxmPUZuYmRTzdYO5SKe3jEP0Pfh1Kd5MLucRI6UWdSt6zCOX1Q2Im/9yqjPhB1IQcxvw==",
+      "path": "quickfix.net.netcore/1.8.1",
+      "hashPath": "quickfix.net.netcore.1.8.1.nupkg.sha512"
+    }
+  }
+}

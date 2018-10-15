@@ -1,0 +1,16 @@
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\SampleFixHostTests.deps.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\SampleFixHostTests.runtimeconfig.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\SampleFixHostTests.runtimeconfig.dev.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\SampleFixHostTests.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\SampleFixHostTests.pdb
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\FixServiceLib.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\bin\Debug\netcoreapp2.0\FixServiceLib.pdb
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.csprojResolveAssemblyReference.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.AssemblyInfo.cs
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostTests\obj\Debug\netcoreapp2.0\SampleFixHostTests.pdb

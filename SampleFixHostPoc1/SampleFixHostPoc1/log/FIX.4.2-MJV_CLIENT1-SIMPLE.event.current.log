@@ -1,0 +1,45 @@
+20181014-19:29:47.832 : Created session
+20181014-19:29:54.480 : Connecting to 127.0.0.1 on port 5001
+20181014-19:29:54.520 : Connection succeeded
+20181014-19:29:59.084 : Session reset: ResetOnLogon
+20181014-19:29:59.121 : Session reset: ResetSeqNumFlag
+20181014-19:29:59.126 : Initiated logon request
+20181014-19:29:59.238 : Received logon
+20181014-19:43:21.392 : Initiated logout request
+20181014-19:43:21.400 : Received logout response
+20181014-19:43:21.412 : Session reset: ResetOnLogout
+20181014-19:43:21.417 : Session FIX.4.2:MJV_CLIENT1->SIMPLE disconnecting: Received logout response
+20181014-19:43:21.424 : Session reset: ResetOnDisconnect
+20181014-21:21:05.835 : Created session
+20181014-21:21:11.267 : Connecting to 127.0.0.1 on port 5001
+20181014-21:21:11.305 : Connection succeeded
+20181014-21:21:11.324 : Session reset: ResetOnLogon
+20181014-21:21:11.362 : Session reset: ResetSeqNumFlag
+20181014-21:21:11.367 : Initiated logon request
+20181014-21:21:11.401 : Received logon
+20181014-21:45:15.718 : Created session
+20181014-21:45:15.752 : Connecting to 127.0.0.1 on port 5001
+20181014-21:45:15.802 : Connection succeeded
+20181014-21:45:15.822 : Session reset: ResetOnLogon
+20181014-21:45:15.863 : Session reset: ResetSeqNumFlag
+20181014-21:45:15.869 : Initiated logon request
+20181014-21:45:15.905 : Received logon
+20181014-21:48:17.589 : Initiated logout request
+20181014-21:48:17.595 : Received logout response
+20181014-21:48:17.612 : Session reset: ResetOnLogout
+20181014-21:48:17.613 : Session FIX.4.2:MJV_CLIENT1->SIMPLE disconnecting: Received logout response
+20181014-21:48:17.621 : Session reset: ResetOnDisconnect
+20181014-21:52:03.373 : Created session
+20181014-21:52:04.395 : Connecting to 127.0.0.1 on port 5001
+20181014-21:52:04.442 : Connection succeeded
+20181014-21:52:04.464 : Session reset: ResetOnLogon
+20181014-21:52:04.504 : Session reset: ResetSeqNumFlag
+20181014-21:52:04.509 : Initiated logon request
+20181014-21:52:04.544 : Received logon
+20181014-21:54:11.630 : Created session
+20181014-21:54:11.661 : Connecting to 127.0.0.1 on port 5001
+20181014-21:54:11.699 : Connection succeeded
+20181014-21:54:11.721 : Session reset: ResetOnLogon
+20181014-21:54:11.759 : Session reset: ResetSeqNumFlag
+20181014-21:54:11.764 : Initiated logon request
+20181014-21:54:11.803 : Received logon

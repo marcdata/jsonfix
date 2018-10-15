@@ -1,0 +1,11 @@
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\bin\Debug\netcoreapp2.0\SimpleAcceptor3.deps.json
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\bin\Debug\netcoreapp2.0\SimpleAcceptor3.runtimeconfig.json
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\bin\Debug\netcoreapp2.0\SimpleAcceptor3.runtimeconfig.dev.json
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\bin\Debug\netcoreapp2.0\SimpleAcceptor3.dll
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.csprojResolveAssemblyReference.cache
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.AssemblyInfo.cs
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\bin\Debug\netcoreapp2.0\SimpleAcceptor3.pdb
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.dll
+C:\Users\marc\source\repos\SimpleAcceptor3\SimpleAcceptor3\obj\Debug\netcoreapp2.0\SimpleAcceptor3.pdb

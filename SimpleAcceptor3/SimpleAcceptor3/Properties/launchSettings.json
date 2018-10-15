@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleAcceptor3": {
+      "commandName": "Project",
+      "commandLineArgs": "cfg/simpleAcceptorThree.cfg"
+    }
+  }
+}

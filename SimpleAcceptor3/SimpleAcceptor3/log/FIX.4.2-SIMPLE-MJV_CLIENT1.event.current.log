@@ -1,0 +1,59 @@
+20181014-16:33:45.519 : Created session
+20181014-16:43:50.287 : Created session
+20181014-16:48:00.938 : Created session
+20181014-17:13:06.059 : Created session
+20181014-19:29:59.154 : FIX.4.2:SIMPLE->MJV_CLIENT1 Socket Reader 6044116 accepting session FIX.4.2:SIMPLE->MJV_CLIENT1 from 127.0.0.1:51574
+20181014-19:29:59.154 : FIX.4.2:SIMPLE->MJV_CLIENT1 Acceptor heartbeat set to 0 seconds
+20181014-19:29:59.179 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20181014-19:29:59.183 : Session reset: Reset requested by counterparty
+20181014-19:29:59.187 : Session reset: ResetOnLogon
+20181014-19:29:59.198 : Received logon
+20181014-19:29:59.209 : Responding to logon request
+20181014-19:43:21.394 : Received logout request
+20181014-19:43:21.396 : Sending logout response
+20181014-19:43:21.401 : Session reset: ResetOnLogout
+20181014-19:43:21.402 : Session FIX.4.2:SIMPLE->MJV_CLIENT1 disconnecting: Received logout request
+20181014-19:43:21.406 : Session reset: ResetOnDisconnect
+20181014-21:21:11.367 : FIX.4.2:SIMPLE->MJV_CLIENT1 Socket Reader 59684805 accepting session FIX.4.2:SIMPLE->MJV_CLIENT1 from 127.0.0.1:51734
+20181014-21:21:11.367 : FIX.4.2:SIMPLE->MJV_CLIENT1 Acceptor heartbeat set to 30 seconds
+20181014-21:21:11.367 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20181014-21:21:11.370 : Session reset: Reset requested by counterparty
+20181014-21:21:11.372 : Session reset: ResetOnLogon
+20181014-21:21:11.372 : Received logon
+20181014-21:21:11.373 : Responding to logon request
+20181014-21:27:55.132 : Session FIX.4.2:SIMPLE->MJV_CLIENT1 disconnecting: Socket exception (127.0.0.1:51734): An existing connection was forcibly closed by the remote host
+20181014-21:27:55.151 : Session reset: ResetOnDisconnect
+20181014-21:45:15.869 : FIX.4.2:SIMPLE->MJV_CLIENT1 Socket Reader 49949281 accepting session FIX.4.2:SIMPLE->MJV_CLIENT1 from 127.0.0.1:51788
+20181014-21:45:15.869 : FIX.4.2:SIMPLE->MJV_CLIENT1 Acceptor heartbeat set to 30 seconds
+20181014-21:45:15.869 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20181014-21:45:15.871 : Session reset: Reset requested by counterparty
+20181014-21:45:15.873 : Session reset: ResetOnLogon
+20181014-21:45:15.874 : Received logon
+20181014-21:45:15.875 : Responding to logon request
+20181014-21:46:42.868 : Message 4 Rejected: Tag not defined for this message type (Field=58)
+20181014-21:46:56.877 : Sent test request TEST
+20181014-21:48:17.591 : Received logout request
+20181014-21:48:17.591 : Sending logout response
+20181014-21:48:17.595 : Session reset: ResetOnLogout
+20181014-21:48:17.595 : Session FIX.4.2:SIMPLE->MJV_CLIENT1 disconnecting: Received logout request
+20181014-21:48:17.598 : Session reset: ResetOnDisconnect
+20181014-21:52:04.509 : FIX.4.2:SIMPLE->MJV_CLIENT1 Socket Reader 30270231 accepting session FIX.4.2:SIMPLE->MJV_CLIENT1 from 127.0.0.1:51880
+20181014-21:52:04.509 : FIX.4.2:SIMPLE->MJV_CLIENT1 Acceptor heartbeat set to 30 seconds
+20181014-21:52:04.509 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20181014-21:52:04.512 : Session reset: Reset requested by counterparty
+20181014-21:52:04.514 : Session reset: ResetOnLogon
+20181014-21:52:04.514 : Received logon
+20181014-21:52:04.515 : Responding to logon request
+20181014-21:53:00.988 : Message 3 Rejected: Tag not defined for this message type (Field=58)
+20181014-21:53:10.992 : Sent test request TEST
+20181014-21:53:16.658 : Session FIX.4.2:SIMPLE->MJV_CLIENT1 disconnecting: Socket exception (127.0.0.1:51880): An existing connection was forcibly closed by the remote host
+20181014-21:53:16.662 : Session reset: ResetOnDisconnect
+20181014-21:54:11.764 : FIX.4.2:SIMPLE->MJV_CLIENT1 Socket Reader 66322562 accepting session FIX.4.2:SIMPLE->MJV_CLIENT1 from 127.0.0.1:51901
+20181014-21:54:11.764 : FIX.4.2:SIMPLE->MJV_CLIENT1 Acceptor heartbeat set to 30 seconds
+20181014-21:54:11.764 : Sequence numbers reset due to ResetSeqNumFlag=Y
+20181014-21:54:11.767 : Session reset: Reset requested by counterparty
+20181014-21:54:11.770 : Session reset: ResetOnLogon
+20181014-21:54:11.770 : Received logon
+20181014-21:54:11.771 : Responding to logon request
+20181014-21:54:59.411 : Session FIX.4.2:SIMPLE->MJV_CLIENT1 disconnecting: Socket exception (127.0.0.1:51901): An existing connection was forcibly closed by the remote host
+20181014-21:54:59.415 : Session reset: ResetOnDisconnect

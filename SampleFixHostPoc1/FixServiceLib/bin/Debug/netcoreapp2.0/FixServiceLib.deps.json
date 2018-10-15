@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "8b0158ae1e481f78ae8ed72070aa2fc32e6aeb80"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "FixServiceLib/1.0.0": {
+        "dependencies": {
+          "QuickFix.Net.NETCore.FIX42": "1.8.1",
+          "QuickFix.Net.NETCore.FIX44": "1.8.1"
+        },
+        "runtime": {
+          "FixServiceLib.dll": {}
+        }
+      },
+      "QuickFix.Net.NETCore/1.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.dll": {}
+        }
+      },
+      "QuickFix.Net.NETCore.FIX42/1.8.1": {
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.FIX42.dll": {}
+        }
+      },
+      "QuickFix.Net.NETCore.FIX44/1.8.1": {
+        "dependencies": {
+          "QuickFix.Net.NETCore": "1.8.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/QuickFix.FIX44.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixServiceLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickFix.Net.NETCore/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-olBopIjF7fhurORB+ZDxmPUZuYmRTzdYO5SKe3jEP0Pfh1Kd5MLucRI6UWdSt6zCOX1Q2Im/9yqjPhB1IQcxvw==",
+      "path": "quickfix.net.netcore/1.8.1",
+      "hashPath": "quickfix.net.netcore.1.8.1.nupkg.sha512"
+    },
+    "QuickFix.Net.NETCore.FIX42/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tIpmJbqxmBjwZ0ySy9WojdTIzOdwolMLBNpGM3Sx7+vSv7NsP6Qz6Vt4F53Ltt0upI4ND+znbsPkyfx9ghhbZQ==",
+      "path": "quickfix.net.netcore.fix42/1.8.1",
+      "hashPath": "quickfix.net.netcore.fix42.1.8.1.nupkg.sha512"
+    },
+    "QuickFix.Net.NETCore.FIX44/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mmVCivlxUq6MrixriG4Gj6B1ZmPQJpqFiAbryEeHNQEcroSSeKBSRUvllPCtDv3d7rIYiVO5kKxAtWj7+aUqow==",
+      "path": "quickfix.net.netcore.fix44/1.8.1",
+      "hashPath": "quickfix.net.netcore.fix44.1.8.1.nupkg.sha512"
+    }
+  }
+}

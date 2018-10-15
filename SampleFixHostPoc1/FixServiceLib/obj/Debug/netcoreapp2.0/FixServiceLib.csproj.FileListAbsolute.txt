@@ -1,0 +1,9 @@
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\bin\Debug\netcoreapp2.0\FixServiceLib.deps.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\bin\Debug\netcoreapp2.0\FixServiceLib.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\bin\Debug\netcoreapp2.0\FixServiceLib.pdb
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.csprojResolveAssemblyReference.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.AssemblyInfo.cs
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\FixServiceLib\obj\Debug\netcoreapp2.0\FixServiceLib.pdb

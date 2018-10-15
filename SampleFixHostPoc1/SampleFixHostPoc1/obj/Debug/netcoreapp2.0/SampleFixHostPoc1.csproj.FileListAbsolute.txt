@@ -1,0 +1,11 @@
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\bin\Debug\netcoreapp2.0\SampleFixHostPoc1.deps.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\bin\Debug\netcoreapp2.0\SampleFixHostPoc1.runtimeconfig.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\bin\Debug\netcoreapp2.0\SampleFixHostPoc1.runtimeconfig.dev.json
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\bin\Debug\netcoreapp2.0\SampleFixHostPoc1.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\bin\Debug\netcoreapp2.0\SampleFixHostPoc1.pdb
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.csprojResolveAssemblyReference.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.csproj.CoreCompileInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.AssemblyInfoInputs.cache
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.AssemblyInfo.cs
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.dll
+C:\Users\marc\source\repos\SampleFixHostPoc1\SampleFixHostPoc1\obj\Debug\netcoreapp2.0\SampleFixHostPoc1.pdb
